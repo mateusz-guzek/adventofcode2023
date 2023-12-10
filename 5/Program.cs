@@ -55,7 +55,7 @@ class Program
     {
         List<string> lines = [];
 
-        // reading file
+        // reading filev
         try {
             var sr = new StreamReader("/home/matixon/programowanie/adventofcode2023/5/input");
             
