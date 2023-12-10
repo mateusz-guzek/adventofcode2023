@@ -1,0 +1,14 @@
+/home/matixon/programowanie/adventofcode2023/4/bin/Release/net8.0/4
+/home/matixon/programowanie/adventofcode2023/4/bin/Release/net8.0/4.deps.json
+/home/matixon/programowanie/adventofcode2023/4/bin/Release/net8.0/4.runtimeconfig.json
+/home/matixon/programowanie/adventofcode2023/4/bin/Release/net8.0/4.dll
+/home/matixon/programowanie/adventofcode2023/4/bin/Release/net8.0/4.pdb
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/4.AssemblyInfoInputs.cache
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/4.AssemblyInfo.cs
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/4.csproj.CoreCompileInputs.cache
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/4.dll
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/refint/4.dll
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/4.pdb
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/4.genruntimeconfig.cache
+/home/matixon/programowanie/adventofcode2023/4/obj/Release/net8.0/ref/4.dll

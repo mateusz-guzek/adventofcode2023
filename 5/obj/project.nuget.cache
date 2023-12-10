@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tP8Euk9X9eX/BmjKnVP84kaRwgcHuzoiKqVIsvEx6XudLO47ufUcJcSqJFJHdyRwUvdR6Qdl3ayWLDitijE4RA==",
+  "success": true,
+  "projectFilePath": "/home/matixon/programowanie/adventofcode2023/5/5.csproj",
+  "expectedPackageFiles": [
+    "/home/matixon/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
